@@ -13,4 +13,4 @@ Connects to the Monad event ring at `/var/lib/hugetlbfs/user/monad/pagesize-2MB/
 ## Requirements
 
 - Rust 2024 edition (1.85+)
-- Access to a running Monad node with event ring enabled
+- A running Monad node with execution events enabled ([setup guide](https://docs.monad.xyz/guides/setup-execution-events))
